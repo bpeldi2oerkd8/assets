@@ -1,0 +1,16 @@
+# .gitignore
+# Ignore All
+*
+!*/
+
+# Allowlist
+!.git/*
+!.gitignore
+!.gitattributes
+!*.jpg
+!*.jpeg
+!*.png
+!*.gif
+!*.webp
+!*.avif
+!*.svg
